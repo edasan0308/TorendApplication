@@ -1,1 +1,2 @@
 # TorendApplication
+Docomoのトレンド記事抽出APIを利用して、トレンドニュースを表示するアプリ（現在はAPIの提供終了）
